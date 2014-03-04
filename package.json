@@ -1,0 +1,7 @@
+{
+  "name": "umbreon",
+  "version": "0.0.0",
+  "description": "Testing Heroku",
+  "main": "app.js",
+  "dependencies": {}
+}
